@@ -1,0 +1,32 @@
+div h1{
+    background-image: url('../Images/10002.jpg');
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 650px;
+    margin-top: -90px;
+    padding-top: 120px;
+    filter: brightness(50%);
+}
+div h5{
+    filter: brightness(100%);
+    font-family: Emirates-Bold, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 40px;
+    margin-top: -420px;
+    padding-left: 70px;
+}
+div h2{
+    filter: brightness(100%);
+    font-size: 60px;
+    padding-left: 70px;
+}
+div h4{
+    filter: brightness(100%);
+    font-size: 40px;
+    padding-left: 260px;
+}
+div h5,h4,h2{
+    font-family: Emirates-Bold, Helvetica, Arial, "Lucida Grande", sans-serif;
+    color: white;
+}

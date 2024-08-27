@@ -2,6 +2,17 @@
     padding: 0;
     margin: 0;
 }
+.header_upperLink{
+    background-color: #FEF8D5;
+    padding: 10px 100px;
+    color: red;
+    font-weight: bold;
+}
+.header_upperLinkBlack{
+    color: black;
+    font-weight: 100;
+    text-decoration: underline;
+}
 .header_container{
     background-color: #333333;
     color: white;
