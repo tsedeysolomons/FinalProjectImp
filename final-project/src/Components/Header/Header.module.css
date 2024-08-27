@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header_container{
+    background-color: #333333;
+    color: white;
+    padding: 10px 100px;
+    
+}
+.header_links{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.logo{
+    background-color: red;
+}
+.theGap{
+    width: 450px;
+    cursor: auto;
+}
+.single_link {
+    margin: -7px 0px;
+    padding: 5px 10px;
+}
+.single_link:hover {
+    background-color: black;
+}
