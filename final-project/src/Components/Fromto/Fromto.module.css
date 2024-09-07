@@ -1,0 +1,5 @@
+.fromto{
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 20px; /* Adjust the gap as needed */
+}
